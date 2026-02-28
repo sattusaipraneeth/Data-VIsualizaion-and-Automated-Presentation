@@ -5,7 +5,7 @@ A streamlined and automated solution for converting raw data into well-structure
 
 ---
 
-**## 🚀 Project Overview**
+## 🚀 Project Overview
 
 Manual reporting and presentation creation can be time-consuming and error-prone. This project addresses that challenge by automating the entire workflow—from reading a dataset to generating an aesthetically pleasing PowerPoint presentation with insightful visualizations.
 
@@ -17,7 +17,7 @@ The tool is ideal for:
 
 ---
 
-**## 🧰 Features**
+## 🧰 Features
 
 ✅ **Automated Chart Generation**
 Generate line charts, bar plots, histograms, and more using Python’s popular plotting libraries (`matplotlib`, `seaborn`).
@@ -36,7 +36,7 @@ Only basic Python knowledge is needed to run the tool. Just place your dataset, 
 
 ---
 
-**## 📁 Project Structure**
+## 📁 Project Structure
 
 ```
 Data-Presentation-Tool/
@@ -51,7 +51,7 @@ Data-Presentation-Tool/
 
 ---
 
-**## 🛠️ Technologies Used**
+## 🛠️ Technologies Used
 
 * Python 3.x
 * pandas
@@ -62,7 +62,7 @@ Data-Presentation-Tool/
 
 ---
 
-**## 💡 How It Works**
+## 💡 How It Works
 
 1. Place your data in the `data/` directory (CSV or Excel format).
 2. Run the main script:
@@ -75,7 +75,7 @@ Data-Presentation-Tool/
 
 ---
 
-**## 🖼️ Sample Output**
+## 🖼️ Sample Output
 
 * 📌 Slide 1: Title Slide
 * 📌 Slide 2: Line Chart – Trends Over Time
@@ -85,7 +85,7 @@ Data-Presentation-Tool/
 
 ---
 
-**## 🧪 Example Use Cases**
+## 🧪 Example Use Cases
 
 * Monthly business performance summaries
 * Visualizing sales, marketing, or financial data
@@ -94,19 +94,19 @@ Data-Presentation-Tool/
 
 ---
 
-**## 🤝 Acknowledgments**
+## 🤝 Acknowledgments
 
 This project was developed during an internship where timely and automated report generation was crucial. Thanks to the mentorship and collaborative environment, I was able to explore how automation can significantly reduce repetitive work in data presentation.
 
 ---
 
-**## 📬 Feedback & Contributions**
+## 📬 Feedback & Contributions
 
 Have suggestions or want to contribute? Feel free to open an issue or submit a pull request. Let's make data reporting simpler, together!
 
 ---
 
-**## 📄 License**
+## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
